@@ -376,6 +376,8 @@
 					<string>hornU</string>
 					<string>Engtail</string>
 					<string>Yu-dash.case</string>
+					<string>Dzhe-descendercomb.case</string>
+					<string>TseDzhebase</string>
 				</array>
 				<key>smartSetName</key>
 				<string>parts</string>
@@ -1795,6 +1797,8 @@
 					<string>engtail</string>
 					<string>yu-i</string>
 					<string>idot</string>
+					<string>dzhe-descendercomb</string>
+					<string>tsedzhebase</string>
 				</array>
 				<key>smartSetName</key>
 				<string>parts</string>

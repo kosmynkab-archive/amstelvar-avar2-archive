@@ -124,6 +124,8 @@
 		<string>D_ze.glif</string>
 		<key>Dzhe</key>
 		<string>D_zhe.glif</string>
+		<key>Dzhe-descendercomb.case</key>
+		<string>D_zhe-descendercomb.case.glif</string>
 		<key>E</key>
 		<string>E_.glif</string>
 		<key>Eacute</key>
@@ -1042,6 +1044,8 @@
 		<string>dze.glif</string>
 		<key>dzhe</key>
 		<string>dzhe.glif</string>
+		<key>dzhe-descendercomb</key>
+		<string>dzhe-descendercomb.glif</string>
 		<key>e</key>
 		<string>e.glif</string>
 		<key>eacute</key>
