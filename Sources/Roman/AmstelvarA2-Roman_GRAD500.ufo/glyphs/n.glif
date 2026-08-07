@@ -4,8 +4,8 @@
 	<advance width="1264"/>
 	<outline>
 		<contour>
-			<point x="86" y="0" type="line"/>
-			<point x="86" y="100" type="line"/>
+			<point x="76" y="0" type="line"/>
+			<point x="76" y="100" type="line"/>
 			<point x="204" y="135" type="line"/>
 			<point x="206" y="527" type="line"/>
 			<point x="194" y="822" type="line"/>

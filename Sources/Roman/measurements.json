@@ -20520,6 +20520,14 @@
       }
     },
     "cy-descendercomb": {
+      "5 1": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "XSHL",
+        "direction": "x"
+      },
       "5 0": {
         "name": "YSHL",
         "direction": "y"

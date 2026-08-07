@@ -4,6 +4,6 @@
 	<advance width="1025"/>
 	<outline>
 		<component base="sha"/>
-		<component base="cy-descendercomb" xOffset="243"/>
+		<component base="cy-descendercomb" xOffset="231"/>
 	</outline>
 </glyph>
