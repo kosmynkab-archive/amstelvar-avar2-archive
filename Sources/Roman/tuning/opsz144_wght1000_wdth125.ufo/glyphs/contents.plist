@@ -532,6 +532,8 @@
 		<string>T_horn.glif</string>
 		<key>Tse</key>
 		<string>T_se.glif</string>
+		<key>TseDzhebase</key>
+		<string>T_seD_zhebase.glif</string>
 		<key>Tshe</key>
 		<string>T_she.glif</string>
 		<key>U</key>
@@ -1874,6 +1876,8 @@
 		<string>tse.glif</string>
 		<key>tse.bgr</key>
 		<string>tse.bgr.glif</string>
+		<key>tsedzhebase</key>
+		<string>tsedzhebase.glif</string>
 		<key>tshe</key>
 		<string>tshe.glif</string>
 		<key>two</key>

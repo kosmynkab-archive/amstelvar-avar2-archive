@@ -11,5 +11,5 @@
 			<point x="322" y="0" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_cy_descender" x="660" y="101"/>
+	<anchor name="_cy_descender" x="322" y="0"/>
 </glyph>
