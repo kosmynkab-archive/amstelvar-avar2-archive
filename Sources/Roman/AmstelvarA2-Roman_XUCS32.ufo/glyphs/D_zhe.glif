@@ -4,6 +4,6 @@
 	<advance width="1268"/>
 	<outline>
 		<component base="TseDzhebase"/>
-		<component base="Dzhe-descendercomb.case" xOffset="434" yOffset="3"/>
+		<component base="Dzhe-descendercomb.case" xOffset="424"/>
 	</outline>
 </glyph>
