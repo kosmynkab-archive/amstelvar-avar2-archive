@@ -25,9 +25,13 @@
 			<point x="165" y="1382" type="line"/>
 			<point x="130" y="1052" type="line"/>
 		</contour>
+		<contour>
+			<point x="931" y="100" type="move"/>
+		</contour>
 	</outline>
 	<anchor name="bottom" x="624" y="0"/>
 	<anchor name="center" x="624" y="750"/>
 	<anchor name="top" x="624" y="1500"/>
 	<anchor name="cy_descender" x="624" y="0"/>
+	<anchor name="cy_descender2" x="931" y="100"/>
 </glyph>
